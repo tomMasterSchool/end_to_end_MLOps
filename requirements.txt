@@ -9,7 +9,7 @@ matplotlib             # Visualización de datos mediante gráficos y figuras
 python-box==6.0.2      # Acceso tipo objeto a diccionarios, útil para manejar configuraciones
 pyyaml                 # Lectura y escritura de archivos YAML (útil para configuraciones del proyecto)
 tqdm                   # Barras de progreso para loops y procesos largos
-ensure                 # Validación de condiciones/lógicas en tiempo de ejecución (verifica si es necesario realmente)
+ensure ==1.0.2         # Validación de condiciones/lógicas en tiempo de ejecución (verifica si es necesario realmente)
 joblib                 # Serialización eficiente de objetos Python, comúnmente usada para guardar modelos
 types-PyYAML           # Tipos estáticos para PyYAML (útil con herramientas como mypy)
 flask                  # Microframework web para construir APIs REST (por ejemplo, para servir modelos)
